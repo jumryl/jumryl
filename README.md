@@ -22,7 +22,20 @@
   and an ability to work well in a team environment.
   I'm comfortable with Agile methodologies and eager to take on new challenges and continue growing.</p>
 
+---
 
+This week i practice my SKILLS: 
 
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   60 mins         ██████░░░░░░░░░░░░░░░░░░░   30.37 %
+JSON         30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+JavaScript   6 months        █████████████████░░░░░░░░   60.13 %
+Other        4 mins          ██████░░░░░░░░░░░░░░░░░░░   03.98 %
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+```
+
+<!--END_SECTION:waka-->
 
 
