@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media.giphy.com/media/PWlsJVm3mhwQhD7imf/giphy.gif" width="450" height="350"/>
   <p style="font-family:verdana" top="200">I'm a software engineer with a years of experience in: </br> </br>
- <img src="https://github.com/devicons/devicon/tree/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     React                
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
