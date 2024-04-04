@@ -1,3 +1,5 @@
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=F7D927&center=true&vCenter=true&lines=Hi%2C+I'm+Jumryl+Solivio)](https://git.io/typing-svg) </h1>
+
 <div id="header" align="center">
   <img src="https://i.postimg.cc/Df9VxS6w/banner-final.png"/>
 </div>
